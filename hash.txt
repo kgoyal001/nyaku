@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A6352864997%2C%22first_name%22%3A%22%28D%29%20Gent%20%F0%9F%A6%B4%22%2C%22last_name%22%3A%22.%22%2C%22username%22%3A%22monktonk%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5202001629373816279&chat_type=sender&auth_date=1728219107&hash=ab7fa00b7fa218ae697330ebe619db9abb2fefa4967ff52d5e70b6e8381afa9f
